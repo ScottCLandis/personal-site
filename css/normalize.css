@@ -1,0 +1,76 @@
+html {
+    margin: 0px, 0px, 0px, 0px;
+}
+
+.resize {
+    width: 100%;
+}
+
+
+/* unvisited link */
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* visited link */
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* mouse over link */
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* selected link */
+
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+a.current:link {
+    color: darkgray;
+    text-decoration: none;
+}
+
+
+/* visited link */
+
+a.current:visited {
+    color: darkgray;
+    text-decoration: none;
+}
+
+
+/* mouse over link */
+
+a.current:hover {
+    color: darkgray;
+    text-decoration: none;
+}
+
+
+/* selected link */
+
+a.current:active {
+    color: darkgray;
+    text-decoration: none;
+}
+
+.resize {
+    width: 100%;
+}
+
+.resize-height {
+    height: 100%;
+}
