@@ -41,4 +41,5 @@ $(document).ready(function () {
         $(".filter-but").removeClass("selected");
         $("#web-but").addClass("selected")
     });
+    $('.filter-but').css('cursor', 'pointer');
 });

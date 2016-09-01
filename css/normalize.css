@@ -6,6 +6,18 @@ html {
     width: 100%;
 }
 
+.wf-loading {
+    visibility: hidden;
+}
+
+.wf-active {
+    visibility: visible;
+}
+
+.wf-inactive {
+    display: block;
+}
+
 
 /* unvisited link */
 
